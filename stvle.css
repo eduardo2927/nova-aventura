@@ -1,0 +1,36 @@
+body {
+background-color: rgba(218, 0, 0, 0.555);
+font-family:"Roboto Mono", system-ui; ;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+
+}
+
+button {
+background-color: rgba(14, 51, 153, 0.74);
+color: rgb(243, 245, 220);
+font-family: "Roboto Mono", system-ui;
+
+}
+
+
+.passo {
+
+display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
+
+
+
+
+
+
+
+
+
